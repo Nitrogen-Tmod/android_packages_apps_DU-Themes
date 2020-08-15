@@ -31,8 +31,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 
-import com.android.internal.util.du.ThemesUtils;
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.nitrogen.ThemesUtils;
+import com.android.internal.util.nitrogen.Utils;
 
 public class AccentPicker extends DialogFragment {
 

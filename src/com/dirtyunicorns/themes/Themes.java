@@ -37,8 +37,8 @@ import androidx.preference.PreferenceFragment;
 import androidx.preference.PreferenceManager;
 import androidx.preference.SwitchPreference;
 
-import com.android.internal.util.du.ThemesUtils;
-import com.android.internal.util.du.Utils;
+import com.android.internal.util.nitrogen.ThemesUtils;
+import com.android.internal.util.nitrogen.Utils;
 
 import java.util.Objects;
 
